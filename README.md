@@ -22,4 +22,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough
 
-https://drive.google.com/file/d/1_c9DymDmkb9N6zZXDdZfgfC_j14Esb1l/preview
+https://drive.google.com/file/d/1_c9DymDmkb9N6zZXDdZfgfC_j14Esb1l/view
