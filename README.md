@@ -1,9 +1,9 @@
 # E-Commerce_Back_End
 
-This application creates the backend of a E-commerce website. 
+This application creates the backend of an E-commerce website. 
 
 ## Code
-I configured a working Express.js API to using Sequelize to interact with a MySQL database.
+I configured a working Express.js API using Sequelize to interact with a MySQL database.
 
 ## User Story
 ```
@@ -22,3 +22,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough
 
+<iframe src="https://drive.google.com/file/d/1_c9DymDmkb9N6zZXDdZfgfC_j14Esb1l/preview" width="640" height="480"></iframe>
