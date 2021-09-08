@@ -23,3 +23,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Walkthrough
 
 https://drive.google.com/file/d/1_c9DymDmkb9N6zZXDdZfgfC_j14Esb1l/view
+
+## Notes
+
+ Creates a database and connects it using a sequelize library as well as defining the models and relationships for each of the products, tags, and categories! Uses express in combination with sequelize to define the routes needed to update, view, create, and delete each of the items.
